@@ -1,3 +1,4 @@
+openai.com
 github.com
 githubusercontent.com
 github.io
