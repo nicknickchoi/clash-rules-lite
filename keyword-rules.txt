@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,xbox  
   - DOMAIN-KEYWORD,msn 
