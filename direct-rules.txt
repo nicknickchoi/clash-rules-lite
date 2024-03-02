@@ -4,3 +4,7 @@ payload:
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-KEYWORD,alibaba
+  - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,antgroup
+  - DOMAIN-KEYWORD,-inc
